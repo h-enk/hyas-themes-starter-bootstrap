@@ -24,11 +24,11 @@ Add to `./config/_default/module.toml`:
 ```toml
 [[mounts]]
   source = "node_modules/@hyas/themes-starter-bootstrap/archetypes"
-  target = "layouts"
+  target = "archetypes"
 
 [[mounts]]
   source = "node_modules/@hyas/themes-starter-bootstrap/assets"
-  target = "layouts"
+  target = "assets"
 
 [[mounts]]
   source = "node_modules/@hyas/themes-starter-bootstrap/layouts"
