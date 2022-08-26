@@ -3,7 +3,7 @@
 'use strict';
 
 // import core.js
-import './assets/js/core';
+import '@hyas/core/assets/js/core.js';
 
 // global alert
-import './assets/js/alert';
+import '@hyas/themes-starter-bootstrap/assets/js/alert.js';
