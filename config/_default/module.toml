@@ -1,0 +1,23 @@
+[[mounts]]
+  source = "node_modules/@hyas/themes-starter-bootstrap/archetypes"
+  target = "layouts"
+
+[[mounts]]
+  source = "node_modules/@hyas/themes-starter-bootstrap/assets"
+  target = "layouts"
+
+[[mounts]]
+  source = "node_modules/@hyas/themes-starter-bootstrap/layouts"
+  target = "layouts"
+
+[[mounts]]
+  source = "archetypes"
+  target = "archetypes"
+
+[[mounts]]
+  source = "assets"
+  target = "assets"
+
+[[mounts]]
+  source = "layouts"
+  target = "layouts"
