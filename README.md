@@ -9,7 +9,11 @@ Bootstrap starter theme for Hyas sites.
 ## Requirements
 
 - [@hyas/core](https://www.npmjs.com/package/@hyas/core)
+
+### Optional, recommended
+
 - [@hyas/seo](https://www.npmjs.com/package/@hyas/seo)
+- [@hyas/images](https://www.npmjs.com/package/@hyas/images)
 
 ## Installation
 
