@@ -1,7 +1,7 @@
 {
   "name": "@hyas/themes-starter-bootstrap",
   "description": "Hyas Bootstrap starter theme",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "browserslist": [
     "defaults"
   ],
@@ -16,7 +16,10 @@
     "version": "auto-changelog -p && git add CHANGELOG.md"
   },
   "devDependencies": {
+    "@popperjs/core": "^2.11.6",
     "auto-changelog": "^2.4.0",
+    "autoprefixer": "^10.4.13",
+    "bootstrap": "^5.2.2",
     "shx": "^0.3.4"
   }
 }
