@@ -8,7 +8,7 @@ Bootstrap starter theme for Hyas sites.
 
 ## Requirements
 
-- [@hyas/core](https://www.npmjs.com/package/@hyas/core)
+- [hyas](https://www.npmjs.com/package/hyas)
 
 ### Optional, recommended
 
